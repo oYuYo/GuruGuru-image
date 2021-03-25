@@ -1,0 +1,2 @@
+# GuruGuru-image
+chrome extension
